@@ -1,6 +1,17 @@
+############################################################
+#####                   CYBERXPLOIT                    #####
+##### PROJECT NAME: TEXT_TO_SPEECH_GAME                #####
+##### PROJECT ID: CYBX004                              #####
+#####                                                  #####
+############################################################
+
+#Importing the text to speech module
 import pyttsx3
+
+#Importing the time module
 import time
 
+#Declaring the score and total questions variables
 score = 0
 full_questions = 4
 
